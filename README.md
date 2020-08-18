@@ -31,7 +31,7 @@ Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/
     <td colspan="2">Mobile</td>
   </tr>
   <tr>
-    <td><img src="preview-web.png" width=300 /></td><td><img src="./readme/Formulário.png" width=300 /></td>
+    <td><img src="https://github.com/dxwebster/NLW2-Proffy/blob/master/readme/preview-web.png?raw=true" width=300 /></td><td><img src="./readme/Formulário.png" width=300 /></td>
     <td><img src="./readme/preview-mobile.png" width=180 /></td><td><img src="./readme/Home-mobile.png" width=180 /></td>
   </tr>
 </table>
