@@ -32,7 +32,7 @@ Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/
   </tr>
   <tr>
     <td><img src="https://github.com/dxwebster/NLW2-Proffy/blob/master/readme/preview-web.png?raw=true" width=300 /></td><td><img src="https://github.com/dxwebster/NLW2-Proffy/blob/master/readme/Formul%C3%A1rio.png?raw=true" width=300 /></td>
-    <td><img src="./readme/preview-mobile.png" width=180 /></td><td><img src="./readme/Home-mobile.png" width=180 /></td>
+    <td><img src="https://github.com/dxwebster/NLW2-Proffy/raw/master/readme/preview-mobile.png" width=180 /></td><td><img src="https://github.com/dxwebster/NLW2-Proffy/raw/master/readme/Home-mobile.png" width=180 /></td>
   </tr>
 </table>
 ## 📥 Executar esse projeto no seu computador
