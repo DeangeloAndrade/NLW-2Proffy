@@ -3,7 +3,7 @@ Projeto Realizado com a trilha discovery, juntamente com a Rocketseat
 
 
 <p align="center">
-  <img src="./readme/Home.png"/>
+  <img src="https://repository-images.githubusercontent.com/284816171/03743600-d68a-11ea-91b2-db303c3fe512"/>
   <br><br>
 </p>
 <h1 align="center">Como criar esse projeto do zero</h1> 
@@ -50,4 +50,4 @@ Ir para a pasta 'web' para rodar o front-end, ou ir para pasta 'server' para rod
 
 Todos os arquivos incluídos aqui, incluindo este _README_, estão sob [Licença MIT](./LICENSE).
 Todos os arquivos incluídos aqui, incluindo este _README_, estão sob [Licença MIT](./LICENSE).<br>
-Criado com ❤ por [Adriana Lima](https://github.com/dxwebster)
+Criado com ❤ por [Deangelo Andrade](https://github.com/dxwebster)
